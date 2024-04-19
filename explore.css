@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.container {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbf5ed;
+}
+.parent-heading {
+  text-align: center;
+  border-bottom: 1px solid black;
+  background-color: #fbf5ed;
+}
+.heading {
+  font-size: 3vmax;
+  padding: 1.5vmax 0;
+}
+.navbar {
+  padding: 1vmax 2vmax;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fbf5ed;
+}
+.nav {
+  display: flex;
+  gap: 2vmax;
+  align-items: center;
+}
+.nav-content{
+  cursor: pointer;
+}
+.logins {
+  padding: 0.5vmax 1.5vmax;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  background-color: #544317;
+  font-size: 1.2vmax;
+  font-weight: bold;
+  cursor: pointer;
+}
+.an{
+  text-decoration: none;
+  color: black;
+}
+.sec{
+  padding:5vmax 0 0 8vmax;
+  display: flex;
+}
+.questions{
+  width: 50vmax;
+}
+.ques1{
+  font-size: 3vmax;
+  padding: 0vmax 0 2vmax 0;
+  font-weight: 700;
+
+}
+.img img{
+  width: 50vmax;
+  height: 25vmax;
+}
+.img{
+  padding-bottom: 2vmax;
+}
+.ans{
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2vmax;
+  padding-bottom: 5vmax;
+  
+}
+.p1{
+  font-size: 1.2vmax;
+  line-height: 1.2;
+  font-family: "Open Sans", sans-serif;
+
+}
+.ans-top{
+  padding-top: 2vmax;
+  padding-bottom: 2vmax;
+
+}
+ol{
+  padding-top: 1vmax;
+  padding-left: 3vmax;
+  padding-bottom: 2vmax;
+}
+.heead{
+  font-size: 2vmax;
+  padding-bottom: 2vmax;
+  font-weight: 700;
+}
+ul{
+  padding-top: 1vmax;
+  padding-left: 3vmax;
+  padding-bottom: 2vmax;
+}
+li span{
+  font-weight: 700;
+}
+.ques2{
+  font-size: 2vmax;
+  padding: 0vmax 0 2vmax 0;
+  font-weight: 700;
+}
+.scroll{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* position:sticky;
+  top: 20%; */
+}
+.all-contentss{
+  height: 65vmin;
+  background-color: rgb(174, 140, 106);
+  width: 30vmax;
+  position:sticky;
+  top: 20%;
+  border-radius: 10px;
+  z-index: 3;
+  padding: 1vmax;
+  display: flex;
+  flex-direction: column;
+  gap: 2vmax;
+  justify-content: center;
+}
+
+.ques3{
+  color: white;
+  text-align: center;
+  font-size: 1.7vmax;
+}
+/* span::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background-color: #D0D5FA; 
+  transition: width 0.3s ease;
+}
+
+span:hover::after {
+  width: 100%;
+} */
