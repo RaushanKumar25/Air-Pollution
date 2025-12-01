@@ -31,4 +31,4 @@ The website aims to **educate users** and promote a greener, cleaner environment
 - Home Page → Air Pollution Overview
 - Causes → Infographics & Description
 - Effects → On health, nature, etc.
-- Preventive Measures → Tips to reduce pollution
+- Preventive Measures → Tips to reduce pollution.
