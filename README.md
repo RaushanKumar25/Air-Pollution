@@ -14,7 +14,7 @@ The website aims to **educate users** and promote a greener, cleaner environment
 - 📉 Graphical representation of pollution levels (if included)
 - 💡 Tips to reduce air pollution at personal and community levels
 - 📷 Infographics and educational images
-- 📱 Responsive design (Mobile + Desktop)
+- 📱 Responsive design (Mobile + Desktop) 
 
 ---
 
